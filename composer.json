@@ -1,0 +1,26 @@
+{
+  "name": "antonienko/positive-modulus",
+  "type": "library",
+  "description": "Modulus returning always positive numbers",
+  "keywords": ["math", "modulus"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Antonio Manuel Hernández Sánchez"
+    }
+  ],
+  "autoload": {
+    "psr-0": {
+      "antonienko\\PositiveModulus": "lib/"
+    }
+  },
+  "autoload-dev": {
+    "psr-0": { "antonienko\\tests\\": "tests/" }
+  },
+  "require": {
+    "php": ">=5.3"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "~4.0"
+  }
+}

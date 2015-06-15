@@ -1,5 +1,6 @@
 Positive Modulus 
 ============
+[![Build Status](https://api.shippable.com/projects/557eaba1edd7f2c05216a6b1/badge?branchName=master)](https://app.shippable.com/projects/557eaba1edd7f2c05216a6b1/builds/latest)
 
 Php modulus operator `%`, when working with negative numbers will return negative results.
 
